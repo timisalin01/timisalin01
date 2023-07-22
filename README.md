@@ -37,7 +37,7 @@
 
 - 📫Feel free to reach out to me through my email **contact@timisalin.me **
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 I live in Romania together with my family.
 <!--Intro end-->
 
 
