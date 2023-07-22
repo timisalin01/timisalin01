@@ -101,7 +101,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/timisalin/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/491/988/png-clipart-facebook-logo-circle-facebook-icon-icons-logos-emojis-social-media-icons.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/timisalin01/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://app.netlify.com/teams/timisalin01/" target="blank"><img align="center" src="https://www.finsmes.com/wp-content/uploads/2021/11/netlify.jpg" alt="netlify" height="50" width="50" /></a>
   
