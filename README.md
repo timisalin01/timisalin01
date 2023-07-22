@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I'm currently focused on improving my skills in React, Next.js, Nodejs, MongoDB**
+- 🔭 I'm currently focused on improving my skills in **React, Next.js, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
