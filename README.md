@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">I'm a passionate web developer with expertise in HTML, CSS, React, Node.js and JavaScript</h2></summary>
   </ul>
 </div>
 
