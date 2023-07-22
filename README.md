@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm a passionate web developer with expertise in HTML, CSS, React, Node.js and JavaScript</h2></summary>
+    <summary><h2 style="display: inline-block">I'm a passionate web developer in HTML, CSS, React, Node.js and JavaScript</h2></summary>
   </ul>
 </div>
 
@@ -27,15 +27,15 @@
 <!--Intro start-->
 - 🔭 I'm currently focused on improving my skills in **React, Next.js, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Javascript, React, Next.js, Node**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly read articles on [MEDIUM](https://medium.com)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Javascript, React, CSS, nodejs, HTML**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫Feel free to reach out to me through my email **contact@timisalin.me **
 
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
