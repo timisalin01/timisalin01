@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -116,6 +116,6 @@
 </div>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
 
 -------------------------------------------------------------------------
