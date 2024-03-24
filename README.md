@@ -12,7 +12,7 @@
 <!--- snake -->
 <div align="center">
   <img  src="#"
-       alt="snake" /></a>
+       alt="" /></a>
 </div>
 
 
